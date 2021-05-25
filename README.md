@@ -43,4 +43,4 @@ Tushar Mittal
 * 0.1
     * Initial Release on 25.05.2021
 
-![alt Demo of website](https://github.com/tmittal98/live-cricket-score/images/sc1.jpg)
+![alt Demo of website](https://github.com/tmittal98/live-cricket-score/blob/main/images/sc1.JPG)
